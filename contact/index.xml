@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connect with us today to discuss your AWS use case, no commitment required. on DevOps Made Easy</title>
-    <link>https://devops-made-easy.com/contact/</link>
+    <link>https://devops-made-easy.github.io/contact/</link>
     <description>Recent content in Connect with us today to discuss your AWS use case, no commitment required. on DevOps Made Easy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://devops-made-easy.com/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devops-made-easy.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
