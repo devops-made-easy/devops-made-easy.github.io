@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News on DevOps Made Easy</title>
+    <link>http://devops-made-easy.com/blog/</link>
+    <description>Recent content in Latest News on DevOps Made Easy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    
+	<atom:link href="http://devops-made-easy.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Information Security Is Everyone’s responsibility?</title>
+      <link>http://devops-made-easy.com/blog/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://devops-made-easy.com/blog/post-1/</guid>
+      <description>When it comes to cybersecurity, most people have a perception that it is the sole responsibility of the IT department.</description>
+    </item>
+    
+  </channel>
+</rss>
